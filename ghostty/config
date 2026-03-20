@@ -1,0 +1,22 @@
+# Font Configuration
+font-family = Operator Mono SSm Book
+font-family-bold = Operator Mono SSm Bold
+font-family-italic = Operator Mono SSm Book Italic
+font-family-bold-italic = Operator Mono SSm Bold Italic
+font-size = 14
+
+# Appearance tweaks to keep things bright and opaque
+theme = roark
+background-opacity = 1.0
+background-blur = 0
+
+# Selection colors tuned for legibility with the light palette
+selection-background = #1e3044
+selection-foreground = #d4d4d4
+
+# Global Keybind - F4 to open/focus Ghostty
+keybind = global:f4=new_window
+
+# Alternative options you can use instead:
+# keybind = global:f4=toggle_visibility  # macOS only - shows/hides all windows
+# keybind = global:f4=toggle_quick_terminal  # Toggle quick terminal mode

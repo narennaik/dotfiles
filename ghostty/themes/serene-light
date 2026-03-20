@@ -1,0 +1,47 @@
+# Serene Light Theme - A warm, aesthetic light theme inspired by Solarized
+# Created for Ghostty terminal with Operator Mono SSm and Vulf Mono fonts
+
+# Background and Foreground
+background = #fdf6e3
+foreground = #2d3e45
+
+# Cursor and Selection
+cursor-color = #268bd2
+selection-background = #eee8d5
+selection-foreground = #586e75
+
+# 16-color palette
+# Black/Dark Gray
+palette = 0=#073642
+palette = 8=#002b36
+
+# Red/Light Red
+palette = 1=#dc322f
+palette = 9=#cb4b16
+
+# Green/Light Green
+palette = 2=#859900
+palette = 10=#7bb82f
+
+# Yellow/Light Yellow
+palette = 3=#b58900
+palette = 11=#dfa000
+
+# Blue/Light Blue
+palette = 4=#268bd2
+palette = 12=#2aa198
+
+# Magenta/Light Magenta
+palette = 5=#d33682
+palette = 13=#6c71c4
+
+# Cyan/Light Cyan
+palette = 6=#2aa198
+palette = 14=#6bbdbf
+
+# White/Light Gray
+palette = 7=#839496
+palette = 15=#e8e1ce
+
+# Additional color settings for better visibility
+bold-is-bright = false

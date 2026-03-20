@@ -1,0 +1,51 @@
+# Roark — a theme for those who do not borrow
+# Steel, granite, and the orange spark of creation
+# No ornamentation. Every color earns its place.
+
+# Background: raw granite
+background = #0e1012
+# Foreground: bright architectural white
+foreground = #f0f0f0
+
+# Cursor: molten steel
+cursor-color = #f0a030
+
+# Selection: blueprint
+selection-background = #1e3044
+selection-foreground = #f0f0f0
+
+# 16-color palette
+
+# Black — structural shadow
+palette = 0=#1a1c1e
+palette = 8=#6e7278
+
+# Red — dynamite at Cortlandt
+palette = 1=#f05545
+palette = 9=#ff6e5e
+
+# Green — the quarry in full sun
+palette = 2=#6edc45
+palette = 10=#88f060
+
+# Yellow/Gold — the Enright House at dusk
+palette = 3=#f0a030
+palette = 11=#ffc050
+
+# Blue — structural steel
+palette = 4=#58b0f0
+palette = 12=#70c8ff
+
+# Magenta — Dominique, restrained but present
+palette = 5=#d080d0
+palette = 13=#e898e8
+
+# Cyan — glass curtain wall
+palette = 6=#50d0d0
+palette = 14=#68e8e8
+
+# White — Connecticut granite
+palette = 7=#c8ccd0
+palette = 15=#ffffff
+
+bold-is-bright = false
